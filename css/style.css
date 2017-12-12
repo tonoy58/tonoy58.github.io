@@ -1,0 +1,63 @@
+.menu{
+	width: 1000px;
+}
+.head{
+	color:green;
+	padding:auto;
+	margin-left:600px;
+}
+.content{
+	background-color:#FFCCFF;
+	margin-left: 400px;
+	padding:5px;
+}
+.nevi{
+	background-color:blue;
+	padding:10px;
+	margin-left: 400px;
+}
+.footer{
+	background-color:gray;
+	margin-left:400px;
+	!padding:5px;
+	float: center;
+	color: white;
+	overflow: hidden;
+}
+.top{
+	background-color: white;
+	!padding:10px;
+	margin-left: 564px;
+	color: black;
+	text-shadow: 1px 1px 5px blue;
+	font-size: 20px;
+}
+.top1{
+	background-color: white;
+	margin-left:624px;
+	color:black;
+	text-shadow: 1px 1px 5px #b0b4de;
+}
+.nevi{
+	color: cyan;
+	background-color:#2E2EFE;
+	overflow: hidden;
+}
+.nevi ul{
+	margin: 0;
+	padding: 0;
+}
+.nevi ul li{
+	float: left;
+}
+.nevi ul li a{
+	display: block;
+	text-decoration: none;
+	padding: 1px  35px;
+	color: white;
+	font-size: 20px;
+}
+.nevi ul li a:hover{
+	background-color: green;
+	color: orange;
+}
